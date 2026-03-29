@@ -27,13 +27,13 @@ function App() {
       <footer className="footer">
         <div className="footerContent">
           <div className="footerSocials">
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <a href="https://github.com/Alexwolf21" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <FiGithub />
             </a>
-            <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/auroshree-lenka" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <FiLinkedin />
             </a>
-            <a href="mailto:your@email.com" aria-label="Email">
+            <a href="mailto:aurolenka2001@gmail.com" aria-label="Email">
               <FiMail />
             </a>
           </div>
