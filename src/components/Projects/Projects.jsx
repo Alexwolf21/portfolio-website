@@ -40,8 +40,8 @@ const projects = [
       { icon: <FiLock />, text: 'JWT security + Saga orchestration' },
       { icon: <FiLayers />, text: 'API Gateway + centralized logging' },
     ],
-    github: '#',
-    demo: '#',
+    github: 'https://github.com/BITSSAP2025AugAPIBP3Sections/APIBP-20242YB-Team-01',
+    demo: null,
   },
   {
     title: 'Food Vision',
@@ -58,7 +58,7 @@ const projects = [
       { icon: <FiServer />, text: 'High accuracy classification results' },
       { icon: <FiLayers />, text: 'Large dataset training pipeline' },
     ],
-    github: '#',
+    github: null,
     demo: null,
   },
 ]
